@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "polina secret token",
+    "mongoUri": "mongodb+srv://admin:P$DwtV6cvDH8YZ@cluster0.k9h4l.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
